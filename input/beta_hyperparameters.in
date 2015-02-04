@@ -1,0 +1,5 @@
+likelihood beta
+split threshold
+gamma 0.5
+internal 5.0 3.0
+external 1.0 2.0

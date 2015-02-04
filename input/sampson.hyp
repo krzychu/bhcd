@@ -1,0 +1,5 @@
+likelihood beta
+split soft
+gamma 0.4
+internal 1.0 0.2
+external 0.2 1.0

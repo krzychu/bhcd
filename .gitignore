@@ -1,0 +1,10 @@
+*.so
+*.o
+*.swp
+*.pyc
+*.toc
+*.aux
+*.log
+*.out
+*.run
+build/
